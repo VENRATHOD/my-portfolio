@@ -1,0 +1,9 @@
+function Experience() {
+  return (
+    <section id="experience" className="min-h-screen flex items-center justify-center bg-white">
+      <h2 className="text-5xl font-bold">Experience</h2>
+    </section>
+  );
+}
+
+export default Experience;
