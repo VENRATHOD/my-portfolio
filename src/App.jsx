@@ -13,14 +13,18 @@ function App() {
   return (
     <>
       <Navbar />
-      <Hero />
-      <About />
-      <Skills />
-      <Experience />
-      <Projects />
-      <Education />
-      <Certifications />
-      <Contact />
+
+      <main>
+        <Hero />
+        <About />
+        <Skills />
+        <Experience />
+        <Projects />
+        <Education />
+        <Certifications />
+        <Contact />
+      </main>
+
       <Footer />
     </>
   );

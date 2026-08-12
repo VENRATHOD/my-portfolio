@@ -4,17 +4,23 @@ const portfolio = {
   role: "Java Full Stack Developer",
 
   tagline:
-    "Building secure, scalable and enterprise-grade Java applications.",
-
-  location: "Yadgir, Karnataka",
+    "Building secure, scalable and high-performance enterprise applications using Java, Spring Boot, Microservices and React.",
 
   email: "rathodvenky538@gmail.com",
 
-  phone: "+91 8310396966",
+  github: "https://github.com/VENRATHOD",
 
-  linkedin: "YOUR_LINKEDIN_URL",
+  linkedin: "https://www.linkedin.com/in/venkatesh-rathod-91176b330",
 
-  github: "YOUR_GITHUB_URL",
+  //resume: "/resume.pdf",
+
+  location: "Bengaluru, Karnataka",
+
+  stats: {
+    experience: "9+ Months",
+    technologies: "15+",
+    projects: "5+"
+  }
 };
 
 export default portfolio;
