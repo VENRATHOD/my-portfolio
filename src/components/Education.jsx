@@ -12,8 +12,8 @@ const education = [
   {
     degree: "Bachelor's Degree",
     title: "Bachelor of Engineering (BE)",
-    field: "Computer Science & Engineering (SCE)",
-    institution: "Government Engineering College / VTU-Belgav",
+    field: "Computer Science & Engineering (CSE)",
+    institution: "Visvesvaraya Technological University (VTU)",
     duration: "2021 – 2025",
     location: "Raichur, Karnataka, India",
     description:
